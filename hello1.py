@@ -1,6 +1,6 @@
 #!/usr/bin/python -tt
 """
-doc
+documentation goes here...
 """
 
 import sys
